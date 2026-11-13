@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "source": "Apify Instagram public-post scrape",
+  "runId": "X4RpR7p0Ac5rXW7SB",
+  "runStatus": "SUCCEEDED",
+  "capturedAt": "2026-11-13",
+  "periodStart": "2026-11-01",
+  "collectionMode": "one-time pilot snapshot, NOT automatic",
+  "requestedProfiles": [
+    "hondamotosiklet_duran",
+    "hondamotosiklet_acar",
+    "hondamotosiklet_alp",
+    "hondamotosiklet_drd_atasehir",
+    "hondamotosiklet_ozmert"
+  ],
+  "notes": "Public post metadata only; metrics may change; ownership mismatch must be reviewed; no paid-ads proof.",
+  "items": [
+    {
+      "id": "4028786213449179422",
+      "account": "hondamotosiklet_alp",
+      "sourceProfile": "hondamotosiklet_alp",
+      "publishedAt": "2026-11-12T13:06:18.000Z",
+      "url": "https://www.instagram.com/p/DfpH7c4oSEe/",
+      "type": "Image",
+      "likes": 45,
+      "comments": 6,
+      "plays": null
+    },
+    {
+      "id": "4028133502822719915",
+      "account": "hondamotosiklet_drd_hasanpasa",
+      "sourceProfile": "hondamotosiklet_drd_atasehir",
+      "publishedAt": "2026-11-11T15:29:49.000Z",
+      "url": "https://www.instagram.com/p/DfmzhQvmSGr/",
+      "type": "Video",
+      "likes": 59,
+      "comments": 8,
+      "plays": 6996
+    },
+    {
+      "id": "4027973048911115480",
+      "account": "hondamotosiklet_duran",
+      "sourceProfile": "hondamotosiklet_duran",
+      "publishedAt": "2026-11-11T10:10:52.000Z",
+      "url": "https://www.instagram.com/p/DfmPCWZMbTY/",
+      "type": "Video",
+      "likes": null,
+      "comments": 2,
+      "plays": null
+    },
+    {
+      "id": "4027381029257235008",
+      "account": "hondamotosiklet_alp",
+      "sourceProfile": "hondamotosiklet_alp",
+      "publishedAt": "2026-11-10T14:34:17.000Z",
+      "url": "https://www.instagram.com/p/DfkIbVIBkpA/",
+      "type": "Image",
+      "likes": 28,
+      "comments": 2,
+      "plays": null
+    },
+    {
+      "id": "4027207772979532158",
+      "account": "hondamotosiklet_alp",
+      "sourceProfile": "hondamotosiklet_alp",
+      "publishedAt": "2026-11-10T08:50:27.000Z",
+      "url": "https://www.instagram.com/p/DfjhCHpIxF-/",
+      "type": "Image",
+      "likes": 13,
+      "comments": 0,
+      "plays": null
+    },
+    {
+      "id": "4026806882779911425",
+      "account": "hondamotosiklet_drd_atasehir",
+      "sourceProfile": "hondamotosiklet_drd_atasehir",
+      "publishedAt": "2026-11-09T19:33:36.000Z",
+      "url": "https://www.instagram.com/p/DfiF4ZjMdUB/",
+      "type": "Image",
+      "likes": 3,
+      "comments": 0,
+      "plays": null
+    },
+    {
+      "id": "4026778207865908665",
+      "account": "hondamotosiklet_duran",
+      "sourceProfile": "hondamotosiklet_duran",
+      "publishedAt": "2026-11-09T18:36:50.000Z",
+      "url": "https://www.instagram.com/p/Dfh_XH9Ia25/",
+      "type": "Video",
+      "likes": null,
+      "comments": 0,
+      "plays": 1469
+    },
+    {
+      "id": "4026501253474456041",
+      "account": "hondamotosiklet_ozmert",
+      "sourceProfile": "hondamotosiklet_ozmert",
+      "publishedAt": "2026-11-09T09:28:36.000Z",
+      "url": "https://www.instagram.com/p/DfhAY6FApHp/",
+      "type": "Video",
+      "likes": 61,
+      "comments": 4,
+      "plays": 7980
+    },
+    {
+      "id": "4026458170995090075",
+      "account": "hondamotosiklet_drd_hasanpasa",
+      "sourceProfile": "hondamotosiklet_drd_atasehir",
+      "publishedAt": "2026-11-09T08:01:16.000Z",
+      "url": "https://www.instagram.com/p/Dfg2l-ZIaKb/",
+      "type": "Video",
+      "likes": 507,
+      "comments": 329,
+      "plays": 127661
+    },
+    {
+      "id": "4024968625158120113",
+      "account": "hondamotosiklet_duran",
+      "sourceProfile": "hondamotosiklet_duran",
+      "publishedAt": "2026-11-07T06:41:14.000Z",
+      "url": "https://www.instagram.com/p/Dfbj6OupGKx/",
+      "type": "Image",
+      "likes": 7,
+      "comments": 0,
+      "plays": null
+    },
+    {
+      "id": "4023612063803917784",
+      "account": "hondamotosiklet_ozmert",
+      "sourceProfile": "hondamotosiklet_ozmert",
+      "publishedAt": "2026-11-05T09:47:19.000Z",
+      "url": "https://www.instagram.com/p/DfWvdqhAkXY/",
+      "type": "Video",
+      "likes": 58,
+      "comments": 2,
+      "plays": 4096
+    },
+    {
+      "id": "4023535444116800598",
+      "account": "hondamotosiklet_acar",
+      "sourceProfile": "hondamotosiklet_acar",
+      "publishedAt": "2026-11-05T07:16:02.000Z",
+      "url": "https://www.instagram.com/p/DfWeCs3xoRW/",
+      "type": "Image",
+      "likes": 4,
+      "comments": 0,
+      "plays": null
+    },
+    {
+      "id": "4023109588294644503",
+      "account": "hondamotosiklet_acar",
+      "sourceProfile": "hondamotosiklet_acar",
+      "publishedAt": "2026-11-04T17:08:02.000Z",
+      "url": "https://www.instagram.com/p/DfU9NruxTMX/",
+      "type": "Video",
+      "likes": 58,
+      "comments": 4,
+      "plays": 5805
+    },
+    {
+      "id": "4022931189983408383",
+      "account": "hondamotosiklet_ozmert",
+      "sourceProfile": "hondamotosiklet_ozmert",
+      "publishedAt": "2026-11-04T11:13:13.000Z",
+      "url": "https://www.instagram.com/p/DfUUppWzPD_/",
+      "type": "Image",
+      "likes": 3,
+      "comments": 1,
+      "plays": null
+    },
+    {
+      "id": "4022818831616829602",
+      "account": "hondamotosiklet_acar",
+      "sourceProfile": "hondamotosiklet_acar",
+      "publishedAt": "2026-11-04T07:30:45.000Z",
+      "url": "https://www.instagram.com/p/DfT7GneReii/",
+      "type": "Image",
+      "likes": 80,
+      "comments": 1,
+      "plays": null
+    }
+  ]
+}
